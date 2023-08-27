@@ -1,1 +1,1 @@
-This is an update by feature_branch2
+Merge conflict resolved.
